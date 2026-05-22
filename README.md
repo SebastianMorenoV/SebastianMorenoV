@@ -21,8 +21,8 @@
 | Category | Skills |
 | --- | --- |
 | **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,kotlin,cpp,java,py" alt="Languages" /></a> |
-| **Frameworks & Libs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,react,opencv" alt="Frameworks" /></a> |
-| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" /></a> |
+| **Frameworks & Libs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,react,opencv,django" alt="Frameworks" /></a> <img src="https://img.icons8.com/color/48/000000/json-web-token.png" height="48" alt="jwt logo" /> |
+| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases" /></a> |
 | **Tools & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,rabbitmq,postman,vite" alt="Tools" /></a> |
 
 <hr>
@@ -33,7 +33,7 @@
   <img src="https://streak-stats.demolab.com/?user=SebastianMorenoV&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMorenoV&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianMorenoV&theme=dark&hide_border=true&layout=compact&include_all_commits=true&count_private=true" alt="Top Languages" />
 </div>
 
 <hr>
@@ -42,12 +42,12 @@
 
 <div align="center">
   <a href="https://portfolio-sebastianmoreno.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/erick-sebasti%C3%A1n-moreno-vargas-67a780259/?skipRedirect=true" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:moreno.sebastian.cb37@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </div>
