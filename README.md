@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sebastian+Moreno+%F0%9F%91%8B;A+passionate+Full-Stack+Developer;Building+cool+projects+at+ITSON" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Sebastian+Moreno+%F0%9F%91%8B;A+passionate+Full-Stack+Developer;Interning+at+@Caridea+Control" alt="Typing SVG" />
 </div>
 
-- 🔭 I’m currently a student in my 7th semester at **ITSON Nainari**, on track to graduate in **2027**.
+- 🔭 I’m currently a student in my 7th semester at **[ITSON](https://www.itson.mx)**, on track to graduate in **2027**.
 - 👨‍💻 I am a **Full-Stack Developer**, capable of building and scaling modern web applications.
-- 🌱 I’m currently focused on deepening my knowledge in my core tech stack.
+- 🚀 Creator of **[Click Pedidos](https://menu.hazclickpublicidad.com/)** and **[AICalling](https://www.aicalling.com.mx/)**.
+- 🌱 Currently working as an **IoT Software Engineering Intern at Caridea Control**, building device gateways and embedded systems.
 - 👯 I am eager to build projects that truly drive innovation and make a difference in people's lives, because as a wise professor once said: *"The quality of people's lives in the future will be determined by the quality of the software they consume."*
-- 🤔 My next step is bringing more of my ideas to life and growing as an engineer.
+- 🤔 My next step is **earning a Software Engineering position in Big Tech** for Summer 2027.
 - 💬 Ask me about my portfolio projects and the technologies I use.
 - 📫 How to reach me: **moreno.sebastian.cb37@gmail.com**
 - ⚡ Fun fact: **I really love space and enjoy looking at planets through my telescope from time to time 🔭🪐**
@@ -17,10 +18,10 @@
 
 | Category | Skills |
 | --- | --- |
-| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,kotlin,cpp,java,py" alt="Languages" /></a> |
-| **Frameworks & Libs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,react,opencv,django" alt="Frameworks" /></a> <img src="https://jwt.io/img/pic_logo.svg" height="48" alt="jwt logo" /> |
-| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Databases" /></a> |
-| **Tools & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,rabbitmq,postman,vite" alt="Tools" /></a> |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,py,cpp,js,dart" alt="Languages" /></a> |
+| **Frameworks & Libs** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,react,fastapi,flutter,opencv" alt="Frameworks" /></a> <img src="https://jwt.io/img/pic_logo.svg" height="48" alt="jwt logo" /> |
+| **Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" alt="Databases" /></a> |
+| **Tools & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,aws,docker,rabbitmq,postman,linux" alt="Tools" /></a> |
 
 <hr>
 
@@ -46,7 +47,7 @@
   </a>
 </div>
 <div align="center">
-<a href="https://portfolio-sebastianmoreno.vercel.app/" target="_blank">
+  <a href="https://portfolio-sebastianmoreno.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Go_To_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
